@@ -8,6 +8,6 @@
 *Weights.hdf5*: Saved weights
 
 # Depedencies
-Matlab 2019a
-Python 3.7.9
-Tensorflow 2.1
+* Matlab 2019a
+* Python 3.7.9
+* Tensorflow 2.1
