@@ -6,3 +6,8 @@
 *Residual_modeling_with_DL.py*: Python/Tensorflow code for training/validating the deep learning models
 
 *Weights.hdf5*: Saved weights
+
+# Depedencies
+Matlab 2019a
+Python 3.7.9
+Tensorflow 2.1
