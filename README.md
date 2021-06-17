@@ -15,6 +15,8 @@ The attached codes can be used for generating training/validataion data and exec
 
 *Weights.hdf5*: Saved weights
 
+[Training/validataion data](https://drive.google.com/file/d/1pgMPfPJoTv6v6-YSw5gE0ol5c637rIPZ/view?usp=sharing)
+
 # Depedencies
 * Matlab 2019a
 * Python 3.7.9
