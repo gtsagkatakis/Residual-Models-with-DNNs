@@ -5,3 +5,4 @@ Create_AnalysisReadyDataset.m: Matlab code that loads the data (fits files) and 
 
 Residual_modeling_with_DL.py: Python/Tensorflow code for training/validating the deep learning models
 
+Weights.hdf5: Saved weights
