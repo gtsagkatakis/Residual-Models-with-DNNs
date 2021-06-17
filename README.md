@@ -26,5 +26,6 @@ The attached codes can be used for generating training/validataion data and exec
 * Tensorflow 2.1
 
 # Acknowledgements
-G. Vernardos was funded by the GLADIUS project (contract no. 897124) within the H2020 Framework Program of the European Commission. 
+G. Vernardos was funded by the GLADIUS project (contract no. 897124) within the H2020 Framework Program of the European Commission
+
 G. Tsagkatakis was funded by the CALCHAS project (contract no. 842560) within the H2020 Framework Program of the European Commission
