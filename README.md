@@ -3,7 +3,7 @@
 This repository contains code accompaning our paper:
 
 Vernardos, G., Tsagkatakis, G., & Pantazis, Y. (2020). 
-Quantifying the structure of strong gravitational lens potentials with uncertainty-aware deep neural networks. 
+[Quantifying the structure of strong gravitational lens potentials with uncertainty-aware deep neural networks](https://doi.org/10.1093/mnras/staa3201). 
 Monthly Notices of the Royal Astronomical Society, 499(4), 5641-5652.
 
 # Description of files
