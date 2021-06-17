@@ -1,8 +1,14 @@
 # Quantifying the structure of strong gravitational lens potentials with uncertainty aware deep neural networks
 
-The attached codes can be used for generating training/validataion data and executing training/inference
+This repository contains code accompaning our paper:
+
+Vernardos, G., Tsagkatakis, G., & Pantazis, Y. (2020). 
+Quantifying the structure of strong gravitational lens potentials with uncertainty-aware deep neural networks. 
+Monthly Notices of the Royal Astronomical Society, 499(4), 5641-5652.
 
 # Description of files
+The attached codes can be used for generating training/validataion data and executing training/inference
+
 *Create_AnalysisReadyDataset.m*: Matlab code that loads the data (fits files) and produces the analysis ready date for training/validation
 
 *Residual_modeling_with_DL.py*: Python/Tensorflow code for training/validating the deep learning models
