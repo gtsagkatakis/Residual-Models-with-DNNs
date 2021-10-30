@@ -20,6 +20,8 @@ The attached codes can be used for generating training/validataion data and exec
 
 [residuals_July2019.zip](https://drive.google.com/file/d/1pgMPfPJoTv6v6-YSw5gE0ol5c637rIPZ/view?usp=sharing): Training/validataion data
 
+[residuals_July2019_in_mat.zip](https://drive.google.com/file/d/1-hxj8JfEWPj9kwCUBUtpvSmSSJGSBH40/view?usp=sharing): Updated Training/validataion data
+
 # Depedencies
 * Matlab 2019a
 * Python 3.7.9
