@@ -31,3 +31,5 @@ The attached codes can be used for generating training/validataion data and exec
 G. Vernardos was funded by the GLADIUS project (contract no. 897124) within the H2020 Framework Program of the European Commission
 
 G. Tsagkatakis was funded by the CALCHAS project (contract no. 842560) within the H2020 Framework Program of the European Commission
+
+This work was also funded by the Hellenic Foundation for Research and Innovation (HFRI) and the General Secretariat for Research and Technology (GSRT) under grant agreement No. 1725 (V4-ICARUS)
